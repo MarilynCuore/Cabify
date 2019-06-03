@@ -294,6 +294,7 @@ footer .footer__wrapper ul .footer__wrapper_select select {
   color: white;
   position: relative;
   padding-left: 0px;
+  -webkit-appearance: none;
 }
 
 footer .footer__wrapper ul .footer__wrapper_stores {
