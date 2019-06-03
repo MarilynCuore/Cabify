@@ -124,6 +124,7 @@ body *::selection {
 .main__section_one .main__section_select .main__section_select-wrapper select {
   border: 1px solid #e2dbff;
   border-radius: 0.5rem;
+  -webkit-appearance: none;
 }
 
 .main__section_two {
@@ -235,6 +236,9 @@ body *::selection {
 .main__section_two .main__section_input select {
   border-radius: 0.5rem;
   border: 0px;
+  -moz-appearance: none;
+       appearance: none;
+  -webkit-appearance: none;
 }
 
 footer {
